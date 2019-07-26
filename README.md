@@ -1,3 +1,3 @@
 # [Office UI Fabric React](http://dev.office.com/fabric)
 
-This is a fork of the Fabric repository.
+This is a fork of the Fabric React repository.
