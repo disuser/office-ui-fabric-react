@@ -51,7 +51,7 @@
       ],
       "*.{js,jsx,json,scss,html,yml,md}": [
         "node ./scripts/lint-staged/prettier",
-        "git add"
+        "git add "
       ]
     },
     "ignore": [
