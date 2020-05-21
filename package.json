@@ -42,6 +42,9 @@
     "perf-test": "node scripts/just.js perf-test"
   },
   "license": "MIT",
+  "dependencies": {
+    "foo": "1.2.3"
+  },
   "lint-staged": {
     "linters": {
       "*.{ts,tsx}": [
