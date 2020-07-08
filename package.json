@@ -41,6 +41,9 @@
     "precommit": "node scripts/node_modules/lint-staged/index.js",
     "perf-test": "node scripts/just.js perf-test"
   },
+  "dependencies": {
+    "typescript: "3.6.3",
+  }
   "license": "MIT",
   "lint-staged": {
     "linters": {
